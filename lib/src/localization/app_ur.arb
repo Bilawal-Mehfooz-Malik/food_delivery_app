@@ -1,0 +1,22 @@
+{
+  "@@locale": "ur",
+  "appTitle": "food_delivery_app",
+  "email": "ای میل",
+  "password": "پاس ورڈ",
+  "login": "لاگ ان",
+  "forgotPassword": "پاس ورڈ بھول گئے؟",
+  "dontHaveAccount": " کیا آپ کے پاس اکاؤنٹ نہیں ہے؟",
+  "signUp": "سائن اپ کریں",
+  "fullName": "پورا نام",
+  "confirmPassword": "پاس ورڈ کی تصدیق کریں",
+  "alreadyHaveAccount": " کیا آپ کے پاس اکاؤنٹ ہے؟",
+  
+  "emptyName": "براہ کرم نام درج کریں",
+  "emptyEmail": "براہ کرم ای میل ایڈریس درج کریں",
+  "invalidEmail": "درست ای میل ایڈریس درج کریں",
+  "emptyPassword": "پاس ورڈ خالی نہیں ہو سکتا",
+  "shortPassword": "پاس ورڈ کم از کم 6 حروف طویل ہونا چاہیے",
+  "emptyConfirmPassword": "پاس ورڈ کی تصدیق خالی نہیں ہو سکتی",
+  "passwordsDoNotMatch": "پاس ورڈ مماثل نہیں ہیں"
+}
+  
